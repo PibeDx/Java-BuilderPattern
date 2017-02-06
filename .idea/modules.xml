@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-BuilderPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-BuilderPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-BuilderPattern_main.iml" group="Java-BuilderPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-BuilderPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-BuilderPattern_test.iml" group="Java-BuilderPattern" />
+    </modules>
+  </component>
+</project>
